@@ -31,7 +31,7 @@ body {
     margin-top: -80px; 
     width: 25px; 
     height: 120px; 
-    transform: translateY(-300px);
+    transform: translateY(-100vh);
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
     animation: in 500ms 6s ease-out forwards;
