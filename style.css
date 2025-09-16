@@ -19,6 +19,7 @@ body {
     position: relative;
     margin: -300px auto 0 auto; 
     z-index: 11; 
+    overflow: hidden; /* evita que se vea contenido fuera del SVG */
 }
 
 .vela-grande {
@@ -114,3 +115,4 @@ body {
     opacity: 0.9;
     border-radius: 50%;
 }
+
